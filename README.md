@@ -96,7 +96,7 @@ pingx probe packet-probe -target 192.168.1.1 -protocol icmp
 
 ```bash
 # 自定义 TCP 数据包
-pingx probe packet-probe -target 192.168.1.1 -protocol tcp -flags SYN -sport 12345 -dport 80 -payload "Hello, World!"
+pingx probe packet-probe -target 192.168.1.1 -protocol tcp -flags SYN -sport 12345 -p 80 -payload "Hello, World!"
 
 # 带速率限制的 UDP Flood
 pingx dos udp-flood -target 192.168.1.1 -p 53 -rate 500 -t 60
