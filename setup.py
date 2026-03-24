@@ -20,7 +20,7 @@ setup(
     description='A powerful network testing and security tool',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    author='Daluobo',
+    author='Daluobo-Toya',
     author_email='xs62784520@163.com',
     url='https://github.com/Daluobo-Toya/PingX',
     packages=find_packages(where='src'),
