@@ -42,6 +42,5 @@ pingx version
 Write-Host "" -ForegroundColor White
 Write-Host "[成功] PingX 安装完成!" -ForegroundColor Green
 Write-Host "现在您可以在终端中使用 'pingx' 命令。" -ForegroundColor White
-Write-Host "直接输入 'pingx' 进入交互式模式。" -ForegroundColor White
-Write-Host "输入 'pingx --help' 查看可用命令。" -ForegroundColor White
+Write-Host "输入 'pingx help' 查看可用命令。" -ForegroundColor White
 Write-Host "========================================" -ForegroundColor Cyan

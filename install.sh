@@ -89,6 +89,5 @@ deactivate
 echo ""
 echo "[成功] PingX 安装完成!"
 echo "现在您可以在终端中使用 'pingx' 命令。"
-echo "直接输入 'pingx' 进入交互式模式。"
-echo "输入 'pingx --help' 查看可用命令。"
+echo "输入 'pingx help' 查看可用命令。"
 echo "========================================"

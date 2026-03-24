@@ -22,7 +22,7 @@ setup(
     long_description_content_type='text/markdown',
     author='Daluobo',
     author_email='xs62784520@163.com',
-    url='https://github.com/daluobo/pingx',
+    url='https://github.com/Daluobo-Toya/PingX',
     packages=find_packages(where='src'),
     package_dir={'': 'src'},
     entry_points={
